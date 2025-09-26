@@ -1,0 +1,2 @@
+# Predictive-Modeling-of-Wage-Distributions-A-Comparative-Analysis-of-Regression-Techniques
+to analyze wage issues in the United States using analytical data. Some of  the steps included data cleaning, feature engineering and data exploration more specifically,  we looked at the factors that impact wages. This also reveals significant patterns and offers  enriched information about wage disparity by industries and occupations.
